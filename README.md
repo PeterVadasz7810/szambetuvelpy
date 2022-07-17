@@ -1,0 +1,2 @@
+# szambetuvelpy
+Számok kiírása betűvel
