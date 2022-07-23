@@ -36,3 +36,8 @@ def test_with_the_highest_nine_digit_number(value):
 @pytest.mark.parametrize("value", [9999999991])
 def test_with_ten_digit_number(value):
     assert szambolbetu(value) == 'A szám túl nagy'
+
+
+@pytest.mark.parametrize("value", [100000000])
+def test_with_a_nine_digit_number(value):
+    assert szambolbetu(value) == 'Egyszázmillió'

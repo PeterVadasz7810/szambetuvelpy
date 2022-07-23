@@ -4,6 +4,7 @@ Egész számok betűvel történő kiírása
 
 EGYESEK = ['', 'egy', 'kettő', 'három', 'négy', 'öt', 'hat', 'hét', 'nyolc', 'kilenc']
 TIZESEK = ['', 'tíz', 'húsz', 'harminc', 'negyven', 'ötven', 'hatvan', 'hetven', 'nyolcvan', 'kilencven']
+TIZHATVANYAI = ['', 'száz', 'ezer', 'millió', 'milliárd', 'billió', 'billiárd', 'trillió', 'trilliárd']
 EXTRA = ['', 'tizen', 'huszon']
 
 
